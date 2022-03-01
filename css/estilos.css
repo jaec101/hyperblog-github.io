@@ -1,5 +1,5 @@
 body
-{
+{   background: #33A;
     text-align: left;
     color:  #333;
 
@@ -20,6 +20,10 @@ font-weight: bold;
 margin: 0;
 padding: 0.5;
 }
+#cabecera #logo
+{width: 20px;
+vertical-align: middle;
+}
 cabecera #tagline
 {
     margin: 0 0 0 0;
@@ -39,6 +43,6 @@ cabecera #tagline
     font-size: 20px;
 }
 #post
-{
+{   background: white;
     padding: 1em;
 }
