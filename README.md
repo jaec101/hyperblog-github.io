@@ -9,7 +9,7 @@ un blog increible para el curso de git y github de platzi
  trucos muy locos del profesor 
  las personalidades multiples de freddy
 creado por el increible platzi team
-
+incluye ejemplos
 
 
 
