@@ -8,6 +8,10 @@ un blog increible para el curso de git y github de platzi
  el buen amor por las buenas practicas
  trucos muy locos del profesor 
  las personalidades multiples de freddy
+<<<<<<< HEAD
+=======
+creado por el increible platzi team ,3
+>>>>>>> ea9e589 (creditos a platzi)
 
 
 
