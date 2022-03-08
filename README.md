@@ -10,7 +10,7 @@ un blog increible para el curso de git y github de platzi
  las personalidades multiples de freddy
 creado por el increible platzi team
 incluye ejemplos
-
+disponible todas mlas edades
 
 
 
